@@ -2,6 +2,11 @@
 
 just a simple calculator built with Flutter and GetX.
 
+
+![alt text](Screenshot1 - 2022-02-27.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
