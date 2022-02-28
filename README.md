@@ -1,8 +1,11 @@
-# getx_simple_calculator
+# SimpleCalculator
 
-just a simple calculator built with Flutter and GetX.
+Just a simple calculator built with Flutter and GetX. 
 
+## ScreenShots
 
+<img src="screenshots/screenshot1Simple.png" width="200" height="425">  <img src="screenshots/screenshot2Simple.png" width="200" height="425">
+<img src="screenshots/screenshot3Simple.png" width="200" height="425">   
 
 
 
