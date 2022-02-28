@@ -1,6 +1,6 @@
 # getx_simple_calculator
 
-A new Flutter project.
+just a simple calculator built with Flutter and GetX.
 
 ## Getting Started
 
