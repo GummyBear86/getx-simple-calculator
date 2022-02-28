@@ -3,7 +3,6 @@
 just a simple calculator built with Flutter and GetX.
 
 
-![alt text](Screenshot1 - 2022-02-27.png)
 
 
 
